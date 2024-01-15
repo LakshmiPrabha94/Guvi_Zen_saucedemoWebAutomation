@@ -63,5 +63,5 @@ test_shutdown: Checks if the shutdown function of the WebPageAutomation class re
       pytest test_sauce_demo.py
    
 # Notes
-The tests assume the existence of a valid SauceDemo website.
-Ensure the geckodriver (Firefox WebDriver) is compatible with your Firefox version.
+1. The tests assume the existence of a valid SauceDemo website.
+2. Ensure the geckodriver (Firefox WebDriver) is compatible with your Firefox version.
